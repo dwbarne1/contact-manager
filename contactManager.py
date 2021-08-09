@@ -1,4 +1,3 @@
-# David Barnes CIS 345 T-Th 12:00 P.M. Assignment 2
 import os, json
 from difflib import get_close_matches
 
